@@ -1,3 +1,5 @@
+# Write Program to check whether given string is a palindrome (reads the same forwards and backwards).
+
 def is_palindrome(word):
     start = 0
     end = len(word) - 1
